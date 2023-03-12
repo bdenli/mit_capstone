@@ -1,2 +1,2 @@
-# mit_capstone
-Malaria Detection 
+MIT Applied Data Science Capstone Project
+* Malaria Detection 
